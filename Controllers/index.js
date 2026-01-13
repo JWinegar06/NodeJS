@@ -1,5 +1,5 @@
 const awesomeFunction = (req, res) => {
-  res.send("Hello World!");
+  res.send("Tooele Tech is AWESOME!");
 };
 
 module.exports = { awesomeFunction };
